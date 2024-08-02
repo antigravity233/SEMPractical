@@ -39,10 +39,5 @@ public class Student {
      return;
    }
 
-    void myTest()
-   {
-	System.out.println(getAverageMark());
-
-   }
-
+    int countAll() { return 0; }
 }
